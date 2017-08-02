@@ -1,0 +1,8 @@
+{
+  "name": "thinkdb-dashboard",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/horizon0708/thinkdb-dashboard.git",
+  "author": "JamesKim <james.kim.nz92@gmail.com>",
+  "license": "MIT"
+}
